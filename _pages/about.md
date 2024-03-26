@@ -13,9 +13,9 @@ Binary analysis, Fuzzing, TEE, System Security.
 
 Education
 ======
-* Ph.D., Department of Computer Science and Engineering, 2026 (expected)
-* M.S., School of Cyber Science and Engineering, Shanghai Jiao Tong University, 2022
-* B.S., School of Information Science and Engineering, Lanzhou University, 2020
+* Ph.D. Department of Computer Science and Engineering, 2026 (expected)
+* M.S. School of Cyber Science and Engineering, Shanghai Jiao Tong University, 2022
+* B.S. School of Information Science and Engineering, Lanzhou University, 2020
 
 Publications
 ======
