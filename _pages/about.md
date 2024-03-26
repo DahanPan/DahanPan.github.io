@@ -30,6 +30,10 @@ Publications
   *The 59th ACM/IEEE Design Automation Conference. (DAC).*
   San Francisco California, USA. July 10-14, 2022.  
 
+
+Awards & Honors
+======
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator

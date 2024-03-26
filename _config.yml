@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yudhui's Personal Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Donghui Yu (喻东徽)"
 description              : &description "personal description"
