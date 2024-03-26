@@ -6,14 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Ph.D. candidate in the computer security research team [GoSec](https://gosec.sjtu.edu.cn/) in the CS department, Shanghai Jiao Tong University, advised by Prof. [Yuanyuan Zhang](http://yyjess.com/).     
+
+My research interests include Software and System Security, Fuzzing, and TEE. I graduated from Lanzhou University in 2019 with a B.S. in Computer Science.
+
+
 
 Research Interests
 ======
-Binary analysis, Fuzzing, TEE, System Security.
+Software and system security, Fuzzing, and TEE.
 
 Education
 ======
-* Ph.D. Department of Computer Science and Engineering, 2026 (expected)
+* Ph.D. Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2026 (expected)
 * M.S. School of Cyber Science and Engineering, Shanghai Jiao Tong University, 2022
 * B.S. School of Information Science and Engineering, Lanzhou University, 2020
 
