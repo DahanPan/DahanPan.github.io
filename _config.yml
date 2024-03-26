@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Donghui Yu (喻东徽)"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Shanghai Jiao Tong University"
+  bio              : "Ph.D. at Shanghai Jiao Tong University"
   location         : #"Shanghai Jiao Tong University"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/yudhui"
+  github           : "yudhui"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
