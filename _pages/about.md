@@ -20,15 +20,14 @@ Education
 Publications
 ======
 
-* *[SEnFuzzer: Detecting SGX Memory Corruption via Information Feedback and Tailored Interface Analysis.](https://dl.acm.org/doi/10.1145/3607199.3607215)*   
+* [SEnFuzzer: Detecting SGX Memory Corruption via Information Feedback and Tailored Interface Analysis.](https://dl.acm.org/doi/10.1145/3607199.3607215)    
   **Donghui Yu**, Jianqiang Wang, Haoran Fang, Ya Fang, Yuanyuan Zhang.  
   *The 26th International Symposium on Research in Attacks, Intrusions and Defenses. (RAID)*  
-  Hong Kong, 16-18 October, 2023.  
-
-* *[VirTEE: A Full Backward-Compatible TEE with Native Live Migration and Secure I/O.](https://dl.acm.org/doi/abs/10.1145/3489517.3530436)*  
+  
+* [VirTEE: A Full Backward-Compatible TEE with Native Live Migration and Secure I/O.](https://dl.acm.org/doi/abs/10.1145/3489517.3530436)   
   Jianqiang Wang, Pouya Mahmoody, Ferdinand Brasser, Patric Jauernig, **Donghui Yu**, Dahan Pan, Yuanyuan Zhang, Ahmad-Reza Sadeghi.  
-  *The 59th ACM/IEEE Design Automation Conference. (DAC).*
-  San Francisco California, USA. July 10-14, 2022.  
+  *The 59th ACM/IEEE Design Automation Conference. (DAC)*
+
 
 
 Awards & Honors
