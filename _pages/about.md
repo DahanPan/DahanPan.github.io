@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in the computer security research team [GoSec](https://gosec.sjtu.edu.cn/) in the CS department, Shanghai Jiao Tong University, advised by Prof. [Yuanyuan Zhang](http://yyjess.com/).     
-
-My research interests include Software and System Security, Fuzzing, and TEE. I graduated from Lanzhou University in 2020 with a B.S. in Computer Science.
+I am a Ph.D. candidate in the computer security research team [GoSec](https://gosec.sjtu.edu.cn/) in the CS department, Shanghai Jiao Tong University, advised by Prof. [Yuanyuan Zhang](http://yyjess.com/). I was a CTFer of 0ops. My research interests include Software and System Security, Fuzzing, and TEE. I graduated from Lanzhou University in 2020 with a B.S. in Computer Science.
 
 
 
@@ -37,6 +35,14 @@ Publications
 
 Awards & Honors
 ======
+* Third place in ECS CloudBuild Developer Competition, 2022.
+* Outstanding undergradute thesis, 2020.
+* National College Student Information Security Competition, national second prize, 2018-2019.
+
+Services
+======
+* Teaching Assistant of
+  - Computer System Security, 2020-2023.
 
 <!-- Work experience
 ======
