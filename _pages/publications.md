@@ -15,6 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+* [DDGF: Dynamic Directed Greybox Fuzzing with Path Profiling.](https://dl.acm.org/doi/pdf/10.1145/3650212.3680324)   
+  Haoran Fang, Kaikai Zhang, **Donghui Yu**, Yuanyuan Zhang.  
+  *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)*
+
+* [COMURICE: Closing Source Code Leakage in Cloud-Based Compiling via Enclave.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10605138)    
+  Dahan Pan, Jianqiang Wang, Yingpeng Chen, **Donghui Yu**, Wenbo Yang, Yuanyuan Zhang.  
+  *The 11th International Conference on Cyber Security and Cloud Computing (CSCloud 2024)* 
+
 * [SEnFuzzer: Detecting SGX Memory Corruption via Information Feedback and Tailored Interface Analysis.](https://dl.acm.org/doi/10.1145/3607199.3607215)      
   **Donghui Yu**, Jianqiang Wang, Haoran Fang, Ya Fang, Yuanyuan Zhang.      
   *The 26th International Symposium on Research in Attacks, Intrusions and Defenses. (RAID 2023)*      
