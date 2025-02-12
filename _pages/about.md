@@ -24,6 +24,15 @@ Education
 
 Publications
 ======
+
+* [Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model.]()
+  Dahan Pan, Yi Xu, Runhan Feng, **Donghui Yu**, Jiawen Chen, Ya Fang, Yuanyuan Zhang.
+  *IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2025)*
+
+* [Enhancing Effective Bidirectional Isolation for Function Fusion in Serverless Architectures.](https://dl.acm.org/doi/10.1145/3652892.3654778)
+  Tianyu Li, Yingpeng Chen, **Donghui Yu**, Yuanyuan Zhang, Bert Lagaisse.
+  *International Middleware Conference (Middleware 2024)*
+
 * [DDGF: Dynamic Directed Greybox Fuzzing with Path Profiling.](https://dl.acm.org/doi/pdf/10.1145/3650212.3680324)   
   Haoran Fang, Kaikai Zhang, **Donghui Yu**, Yuanyuan Zhang.  
   *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)*
