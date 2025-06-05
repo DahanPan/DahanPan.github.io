@@ -10,25 +10,25 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Donghui Yu (喻东徽)"
+name                     : &name "Dahan Pan (潘达汉)"
 description              : &description "personal description"
-url                      : https://yudhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dahanpan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yudhui/yudhui.github.io"
+repository               : "DahanPan/dahanpan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ydh.jpg"
-  name             : "Donghui Yu (喻东徽)"
+  avatar           : "profile.jpg"
+  name             : "Dahan Pan (潘达汉)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. at Shanghai Jiao Tong University"
   location         : #"Shanghai Jiao Tong University"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
-  email            : "yudhui@sjtu.edu.cn" 
+  email            : "dhpan98@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "yudhui"
+  github           : "DahanPan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

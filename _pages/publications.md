@@ -16,25 +16,17 @@ author_profile: true
 {% endfor %} -->
 
 * [Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model.]()
-  Dahan Pan, Yi Xu, Runhan Feng, **Donghui Yu**, Jiawen Chen, Ya Fang, Yuanyuan Zhang.
+  **Dahan Pan**, Yi Xu, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang.
   *IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2025)*
 
-* [Enhancing Effective Bidirectional Isolation for Function Fusion in Serverless Architectures.](https://dl.acm.org/doi/10.1145/3652892.3654778)
-  Tianyu Li, Yingpeng Chen, **Donghui Yu**, Yuanyuan Zhang, Bert Lagaisse.
-  *International Middleware Conference (Middleware 2024)*
-
-* [DDGF: Dynamic Directed Greybox Fuzzing with Path Profiling.](https://dl.acm.org/doi/pdf/10.1145/3650212.3680324)   
-  Haoran Fang, Kaikai Zhang, **Donghui Yu**, Yuanyuan Zhang.  
-  *Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)*
-
 * [COMURICE: Closing Source Code Leakage in Cloud-Based Compiling via Enclave.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10605138)    
-  Dahan Pan, Jianqiang Wang, Yingpeng Chen, **Donghui Yu**, Wenbo Yang, Yuanyuan Zhang.  
-  *The 11th International Conference on Cyber Security and Cloud Computing (CSCloud 2024)* 
-
-* [SEnFuzzer: Detecting SGX Memory Corruption via Information Feedback and Tailored Interface Analysis.](https://dl.acm.org/doi/10.1145/3607199.3607215)      
-  **Donghui Yu**, Jianqiang Wang, Haoran Fang, Ya Fang, Yuanyuan Zhang.      
-  *The 26th International Symposium on Research in Attacks, Intrusions and Defenses. (RAID 2023)*      
+  **Dahan Pan**, Jianqiang Wang, Yingpeng Chen, Donghui Yu, Wenbo Yang, Yuanyuan Zhang.  
+  *The 11th International Conference on Cyber Security and Cloud Computing (CSCloud 2024)*  
 
 * [VirTEE: A Full Backward-Compatible TEE with Native Live Migration and Secure I/O.](https://dl.acm.org/doi/abs/10.1145/3489517.3530436)   
-  Jianqiang Wang, Pouya Mahmoody, Ferdinand Brasser, Patric Jauernig, **Donghui Yu**, Dahan Pan, Yuanyuan Zhang, Ahmad-Reza Sadeghi.  
-  *The 59th ACM/IEEE Design Automation Conference. (DAC 2022).*
+  Jianqiang Wang, Pouya Mahmoody, Ferdinand Brasser, Patric Jauernig, Donghui Yu, **Dahan Pan**, Yuanyuan Zhang, Ahmad-Reza Sadeghi.  
+  *The 59th ACM/IEEE Design Automation Conference. (DAC 2022)*
+
+* [MagikCube: Securing Cross-Domain Publish/Subscribe Systems with Enclave.](https://ieeexplore.ieee.org/document/9724426)
+  Shuran Wang, **Dahan Pan**, Runhan Feng, Yuanyuan Zhang.
+  *2021 IEEE 20th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2021)*
