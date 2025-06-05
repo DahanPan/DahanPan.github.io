@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* [Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model.]()
+* [Pay Your Attention on Lib! Android Third-Party Library Detection via Feature Language Model.](https://ieeexplore.ieee.org/document/10992519)
   **Dahan Pan**, Yi Xu, Runhan Feng, Donghui Yu, Jiawen Chen, Ya Fang, Yuanyuan Zhang.
   *IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2025)*
 
