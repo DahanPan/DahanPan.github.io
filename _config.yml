@@ -21,7 +21,7 @@ repository               : "DahanPan/dahanpan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "personal.jpg"
   name             : "Dahan Pan (潘达汉)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. at Shanghai Jiao Tong University"
